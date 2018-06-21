@@ -1,1 +1,1 @@
-# Hw2 accidently updated this page so its the same as hw5.
+Class project to create a website using HTML and CSS.
